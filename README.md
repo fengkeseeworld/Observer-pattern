@@ -1,2 +1,3 @@
 # Observer-pattern
-Observer pattern
+在博客园中看到一个关于观察者的模式<br>
+自己通过学习，编写了一个更加完善的观察者模式
